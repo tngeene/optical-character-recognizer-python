@@ -1,10 +1,10 @@
 # Captcha solving using Pytesseract and Pillow
 
-> this project is a simple image recognition program
+> An image text recognition program
 
 ## Setup and Requirements
 
-Ensure you have [poetry](https://python-poetry.org/docs/) installed.
+Ensure you have [poetry](https://python-poetry.org/docs/) and python 3.9 installed.
 
 To do this run `pip3 install poetry`
 
