@@ -4,7 +4,7 @@
 
 ## Setup and Requirements
 
-Ensure you have poetry installed.
+Ensure you have [poetry](https://python-poetry.org/docs/) installed.
 
 To do this run `pip3 install poetry`
 
@@ -15,4 +15,4 @@ After all dependencies have been installed, run the script by
 
     python main.py --i "https://imgur.com/USc3mUY.jpg"
 
-where the argument after --i flag is the path to an captcha file.
+where the argument after --i flag is the path to a captcha file.
